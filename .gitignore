@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/ar80
+ar80.so
+ar80.dylib
+ar80.dll
+ar80.a
+ar80.lib
+ar80-test-*
+*.exe
+*.o
+*.obj
+*.lst

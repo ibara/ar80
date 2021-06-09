@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Brian Callahan"
+	],
+	"copyright": "Copyright © 2021, Brian Callahan",
+	"description": "CP/M and MS-DOS library archiver.",
+	"license": "ISC",
+	"name": "ar80"
+}
